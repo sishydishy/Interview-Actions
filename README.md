@@ -2,13 +2,19 @@
 
 1. Tell us why you would like to pursue a rotation in Melbourne?  
 
+Solution Architecture in Auckland:
+
+> We did solution options discussions once in the past year, and the end results weren't even transparent to us.  
+-- Aashiq Durga
+
 Research with Auckland Associates: 
 
-_Hypothetically speaking, do you think your crew rotation experience would've been better if you had the chance to go to melb and would you have been able to share different perspectives with your current team if you had?_
+_Hypothetically speaking, do you think your crew rotation experience would've been better if you had the chance to go to Melbourne and would you have been able to share different perspectives with your current team if you had?_
 
 > Definitely - there are a limited number of teams you can join here in Auckland.  
 I know in Melbourne they have different tech stacks that they prefer. While I know that technologies shouldn’t be what you chase, but working with different technologies can give you a different experience when solving problems. Each language/technology has ways of doing things that are unique to them.  
-There are also teams in Melbourne which don’t deal with just MYOB products - eg. Don’t Panic, Replicant. Getting experience from a team which focuses on helping streamline and support the rest of the company will give quite a different experience to working on a product team. Being able to cross-pollinate between product teams and those sorts of teams would be helpful to MYOB. -- Karen Xie, Assiociate Developer
+There are also teams in Melbourne which don’t deal with just MYOB products - eg. Don’t Panic, Replicant. Getting experience from a team which focuses on helping streamline and support the rest of the company will give quite a different experience to working on a product team. Being able to cross-pollinate between product teams and those sorts of teams would be helpful to MYOB.  
+-- Karen Xie, Assiociate Developer
 
 
 
