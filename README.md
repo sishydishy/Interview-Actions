@@ -1,6 +1,13 @@
 # Interview-Actions
 
-1. Tell us why you would like to pursue a rotation in Melbourne?  
+1. Tell us why you would like to pursue a rotation in Melbourne?
+
+Pairing in Melbourne: 
+
+<img src="https://github.com/sishydishy/Interview-Actions/blob/master/Images/Pairing_Image.png" alt="alt" height="350" width="500"/> 
+
+<img src="https://github.com/sishydishy/Interview-Actions/blob/master/Images/Thread_Image.png" alt="alt" height="550" width="350"/> 
+ 
 
 Solution Architecture in Auckland:
 
