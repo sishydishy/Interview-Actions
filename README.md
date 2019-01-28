@@ -43,4 +43,10 @@ Template for [FMA - Crew Rotation Milestones][1]
 
 > Saish was a great asset to us during the organisation of the MYOB IT Challenge 2018, in particular with writing the case challenge, presenting at the launch event and also being a judge for the Auckland and Wellington Regional Finals. He would add tremendous value to go to Melbourne team, not only as a result of the help he provided in organising the MYOB IT Challenge but also the other attributes he has developed in his time at MYOB so far. -- Shailan Patel
 
+**Testimony from Auckland Interns about Timelines:**
+
+> It was really helpful for mapping out the direction I wanted to go in with my learning for the internship, and it was definitely nice to be able to look back on it and see how I was doing in relation to the goals that I had set at the beginning. -- Vilia Li
+
+> The roadmap is definitely a good idea for keeping track of the goals of the internship. Around about a week after I had my goal conversation/meeting with my mentors I had honestly forgotten most of what I had said.  A roadmap would have been perfect to keep myself on track to ensure I was doing my best to properly fulfill my goals for the internship. -- Sean Spires
+
 
