@@ -29,6 +29,10 @@ There are also teams in Melbourne which don’t deal with just MYOB products - e
 ---
 2. What crew are you looking to rotate into and what skills will you obtain from that rotation?
 
+**Example of Learning Milestone:**
+
+- Understand K8s basic concepts/objects and whiteboard and explain the entire system’s components to someone. You won’t be considered passed the milestone until that someone (other devs in the crew) says so
+
 **Testimony from Ryan about Growth while being in Replicant**
 
 > JC puts you on the spot about drawing diagrams about the architecture with the operations, but because of this and along side the learning milestones I was able to go from drawing only 3 boxes to 20-30 boxes. -- Ryan
